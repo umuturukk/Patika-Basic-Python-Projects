@@ -1,5 +1,4 @@
 # Patika-Basic-Python-Projects
----
 #### Patika.dev Temel Python kursu bitirme projesi.
 ---
 [Patika.dev Profil Linkim İçin Tıklayınız](https://app.patika.dev/umuturukk)
